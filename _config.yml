@@ -1,0 +1,12 @@
+# Site settings
+title: Jason Terhorst
+email: jason@jterhorst.com
+description: > # this means to ignore newlines until "baseurl:"
+  A software developer from Illinois. I write about technology and its function in the church, as well as design and implementation of apps and UI for mobile.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.jterhorst.com" # the base hostname & protocol for your site
+twitter_username: jterhorst
+github_username:  jterhorst
+
+# Build settings
+markdown: kramdown
