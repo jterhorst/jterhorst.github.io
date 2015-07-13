@@ -7,11 +7,13 @@ categories: coredata cocoa ios
 
 Since my Apple Watch arrived in late April, I've worn it. But I soon found that I was looking for something different with my fitness tracking.
 
-- I wanted step tracking
+- I wanted step tracking, more focus on heart rate
 
-- I like the Fitbit software better
+- I like the Fitbit software better. Tracking food is the other important half of weight-loss.
 
-- The heartrate tracking is better
+- The heartrate tracking is better. The sensor is always on.
+
+- Sleep tracking is trivial to me, but sometimes interesting.
 
 - The Apple Watch notifications are nicer, but add a lot of noise for little benefit
 
@@ -19,5 +21,5 @@ Since my Apple Watch arrived in late April, I've worn it. But I soon found that 
 
 - The Apple Watch communications features are weird, and not very useful
 
-- The Apple Watch is what spawned my newest interest in fitness
+- The Apple Watch is what spawned my newest interest in fitness, and I'm glad that others in my Twitter circles are making great progress.
 
