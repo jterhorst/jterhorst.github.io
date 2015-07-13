@@ -23,3 +23,4 @@ Since my Apple Watch arrived in late April, I've worn it. But I soon found that 
 
 - The Apple Watch is what spawned my newest interest in fitness, and I'm glad that others in my Twitter circles are making great progress.
 
+- The Apple Watch could potentially catch up, if it had the social stuff, full HR tracking and calorie in/out tracking
