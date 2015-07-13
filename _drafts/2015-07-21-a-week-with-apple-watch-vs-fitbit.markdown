@@ -2,7 +2,7 @@
 layout: post
 title: "A Week with Apple Watch vs Fitbit Charge HR"
 date: 2015-07-21 10:00:00 -0500
-categories: coredata cocoa ios
+categories: technology ios fitness apple fitbit
 ---
 
 Since my Apple Watch arrived in late April, I've worn it. But I soon found that I was looking for something different with my fitness tracking.
