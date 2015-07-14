@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chrome is the new IE"
+title: "Chrome is the new Flash"
 date: 2015-07-14 10:00:00 -0500
 categories: web ios browsers technology
 ---
@@ -11,7 +11,7 @@ I attribute Safari's stability partly to not including Flash by default, and mak
 
 We see this priority in the implementation of iOS 9 Safari extensions. These extensions are subject to review, and are intentionally limited to avoid performance issues. It should be very difficult for 3rd-party developers to screw anything up in my browser.
 
--- Why is Chrome the new Flash?
+## Why is Chrome the new Flash?
 
 Chrome started out with admirable public goals - to improve the performance of the web. It seems like it's falling away from that in recent months, however. Flash is included with the browser - to be fair, they keep this mostly up-to-date, and it's painless to update the whole browser. But the fact that it's in there and turned on exposes users to any security vulnerabilities from Flash.
 
