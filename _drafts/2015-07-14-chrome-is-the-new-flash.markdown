@@ -1,7 +1,26 @@
 ---
 layout: post
-title: "Chrome is the new Flash"
+title: "Chrome is the new IE"
 date: 2015-07-14 10:00:00 -0500
 categories: web ios browsers technology
 ---
 
+Let's get it out of the way before we continue: I prefer Safari over Chrome. I've used it since it was first released. I find Safari is more stable and fast (with the Flash plugin removed), and echoes my goals in browsing the web. It feels at home on the Mac. It also syncs to mobile Safari on my iOS devices. As a developer, I appreciate the WebKit team philosophy of "no performance regressions". Any change to the code that makes the tests run slower gets reverted. I don't know if they still follow this in practice, but if they do, it explains so much of the features they've decided to add and support. I don't use all of the features - I mostly ignore reading lists, for instance - but the features I use are typically pretty solid.
+
+I attribute Safari's stability partly to not including Flash by default, and making it easy to remove if it ends up on your machine. Flash is rife with security issues, instability, and bad experiences in general. Even 5 years ago, I was using plug-ins like Click2Flash to disable Flash by default, and seeing much better speed and stability. In most of my browsing, Flash was typically only powering advertisements. As iOS has helped to push the use of HTML5-based video instead, this has only become more true. I'm able to move around the web without Flash on a daily basis now, and it makes the web more pleasurable to use. All because the Safari/WebKit team, I think, focuses on avoiding regressions.
+
+We see this priority in the implementation of iOS 9 Safari extensions. These extensions are subject to review, and are intentionally limited to avoid performance issues. It should be very difficult for 3rd-party developers to screw anything up in my browser.
+
+-- Why is Chrome the new Flash?
+
+Chrome started out with admirable public goals - to improve the performance of the web. It seems like it's falling away from that in recent months, however. Flash is included with the browser - to be fair, they keep this mostly up-to-date, and it's painless to update the whole browser. But the fact that it's in there and turned on exposes users to any security vulnerabilities from Flash.
+
+The Chromium project forked off of WebKit to build their own engine. They're pushing their own agenda, which they claim is "openness". My concern with this claim, however: the Chromium team were maintaining many features in their own branch of WebKit long ago, and never worked to merge them back into the main WebKit branch. So forgive me if I roll my eyes when they make any claims of open-ness or cooperation with the community.
+
+The Blink team is going down the same path of other browser projects - Mozilla and Firefox - both of which have become overly bloated and stretched in too many directions. The Apple WebKit team, like it or not, has one main priority: don't make it slow. Any time you add code to a project, there's a potential risk of decreased performance or stability. So when you [gripe about WebKit allegedly falling behind](http://nolanlawson.com/2015/06/30/safari-is-the-new-ie/), I tend to wonder what you're expecting be added to my browser. Most of these gripes involved adding new "features" which already exist in Safari - just not the particular flavor of the thing you want. The core of these gripes from the web developer crowd seems to be "we want to make native apps, but on the web". The reality is that you'll always be playing second fiddle to native apps - in speed, size, and usability. This has been argued back and forth too much already, so I'm leaving that alone.
+
+I suppose I would be more sympathetic to these gripes if web developers were more respectful to Safari on the desktop, but when I mention a bug in a web site, a common response I get from web developers is, "oh, that works fine in Chrome". In their tone, in their delivery, the underlying meaning is "you should switch to Chrome". Since Safari is my browser of choice, you can understand why this frustrates me.
+
+Ultimately browsers should be slow to push out major changes and new features, changes should conform to the open spec, and changes added to browsers should not sacrifice performance. When browsers vary from the spec, you get the IE non-standard behavior of the 90s. When browsers allow performance to drop in favor of features, you end up with Mozilla. When pushing out new features too quickly, things are missed in QA and bugs are left unfixed.
+
+I think Apple is moving at the correct pace with Safari, and taking a good performance-based approach to features. Pushing browser makers to adopt features which aren't part of the standard yet leads to more silo-ing like we had in the late 90s with IE. Chrome going off it its own direction, and web developers trying to force me onto Chrome, makes me feel like Chrome is the new IE.
