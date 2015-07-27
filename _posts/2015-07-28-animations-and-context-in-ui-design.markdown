@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Animations and Context in UI Design"
-date: 2015-07-28 10:00:00 -0500
+date: 2015-07-26 19:00:00 -0500
 categories: ui design animation web apps
 ---
 
